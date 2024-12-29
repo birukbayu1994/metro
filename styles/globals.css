@@ -1,0 +1,28 @@
+/* globals.css */
+
+body {
+    background-color: #f8f9fa; /* Light grey background */
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.pagination .page-link {
+    color: #007bff;
+}
+
+.pagination .page-link:hover {
+    background-color: #007bff;
+    color: #fff;
+}
+
+h1 {
+    color: #333;
+}
